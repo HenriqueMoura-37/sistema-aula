@@ -1,0 +1,27 @@
+.formulario-pessoa {
+    display: grid;
+    gap: 12px;
+    max-width: 420px;
+    padding: 20px;
+    margin-bottom: 24px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.formulario-pessoa label {
+    display: grid;
+    gap: 4px;
+    font-size: 14px;
+}
+
+.formulario-pessoa input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.formulario-botoes {
+    display: flex;
+    gap: 10px;
+}

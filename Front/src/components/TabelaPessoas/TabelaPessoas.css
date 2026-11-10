@@ -1,0 +1,21 @@
+.tabela-pessoas {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.tabela-pessoas th,
+.tabela-pessoas td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.tabela-pessoas th {
+    background-color: #eee;
+}
+
+.tabela-acoes {
+    display: flex;
+    gap: 8px;
+}
