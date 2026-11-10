@@ -1,0 +1,13 @@
+header {
+    padding: 16px 24px;
+    background-color: #333;
+    color: white;
+}
+
+header nav {
+    margin-top: 8px;
+}
+
+header a {
+    color: white;
+}
